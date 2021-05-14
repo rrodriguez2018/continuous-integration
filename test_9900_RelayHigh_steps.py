@@ -39,4 +39,4 @@ def decrease_input_freq(input_freq, new):
 @then('the 9900 Relay 2 state becomes "<triggered>"')
 def set_relay(input_freq, triggered):
     assert triggered == True
-    
+    #test1
