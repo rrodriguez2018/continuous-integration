@@ -16,6 +16,7 @@ class InputFrequency:
     @property
     def freq(self, freq=0):
         return self._freq
+    #dummy line-void
     # def check_relay_state(self):
     #     return self._relay_state
 
