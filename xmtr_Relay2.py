@@ -37,5 +37,5 @@ class InputFrequency:
     def decrease_input_freq(self, freq=1):
         new_freq = self.freq - freq
         # if new_freq < 0:
-        #     raise ValueError("Attempted to enter negative values")
+        #     raise ValueError("Attempted to enter negative values") RR
         self._freq = new_freq
