@@ -30,3 +30,4 @@ Feature: We will trigger the 9900 Transmitter Relay 2 whenever
     Given the Input Frequency is "50" Hz
     When the Input Frequency increases to "1600" Hz
     Then the 9900 Relay 2 state becomes "False"
+
