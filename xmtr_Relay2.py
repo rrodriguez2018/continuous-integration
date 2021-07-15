@@ -1,7 +1,7 @@
 """
 This module contains a simple class modeling a 9900 Transmitter Relay 2.
 9900 Input frequency may be increased or decreased.
-The Relay 2 will turn ON at predetermined setpoint, with hysteresis for turning OFF
+The Relay 2 will turn ON at predetermined setpoint, with hysteresis for turning OFF.bla bla vbla
 """
 
 
